@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    font-family: 'Muli',sans-serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+
+}
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    width: 100%;
+    background-color: lightblue;
+    padding: 15px;
+    font-family: inherit;
+    font-size: 16px;
+    border: 0;
+    border-radius: 10px;
+
+}
+
+.btn:focus {
+    outline:0;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
