@@ -1,6 +1,5 @@
 body {
-    background-color: white;
-    color: white;
+    background-color: ghostwhite;
     font-family: 'Muli',sans-serif;
     display:flex;
     flex-direction: column;
@@ -8,34 +7,32 @@ body {
     justify-content: center;
     height: 100vh;
     overflow: hidden;
-    margin: 0;
+
 
 }
 
 .container{
-    background-color: rgba(0,0,0,0.4);
-    padding: 30px 40px;
+    background-color: lightblue;
+    padding: 60px 40px;
+    width: 500px;
     border-radius: 10px;
 }
 
 .btn {
+    position: relative;
+    width: 50%;
     cursor: pointer;
-    display: inline-block;
-    width: 100%;
-    background-color: lightsteelblue;
-    padding: 15px;
-    font-family: inherit;
+    left: 25%;
+    background-color: white;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1), 0 6px 6px 0 rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    margin: 0 5px 10px 0;
     font-size: 16px;
     border: 0;
-
     border-radius: 10px;
-
 }
 
 
-.btn:focus {
-    outline:0;
-}
 
 .btn:active {
     transform: scale(0.98);
