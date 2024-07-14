@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Animated Navigation">
-      <change afterPath="$PROJECT_DIR$/Drink Water/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink Water/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink Water/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink Water/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink Water/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink Water/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Incrementing Counter/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie App/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie App/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie App/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie App/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movie App/style.css" afterDir="false" />
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Incrementing Counter and Movie App">
+      <change afterPath="$PROJECT_DIR$/Background Slider/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Background Slider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Background Slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Background Slider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Background Slider/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +121,7 @@
       <workItem from="1720718820190" duration="1398000" />
       <workItem from="1720903840418" duration="89000" />
       <workItem from="1720905857223" duration="495000" />
-      <workItem from="1720954200893" duration="13472000" />
+      <workItem from="1720954200893" duration="15778000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -155,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720906353686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Incrementing Counter and Movie App">
+      <option name="closed" value="true" />
+      <created>1720971376468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720971376468</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +188,7 @@
     <MESSAGE value="Changing buttons around" />
     <MESSAGE value="Update to main menu" />
     <MESSAGE value="Animated Navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animated Navigation" />
+    <MESSAGE value="Incrementing Counter and Movie App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Incrementing Counter and Movie App" />
   </component>
 </project>
