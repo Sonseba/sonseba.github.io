@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Incrementing Counter and Movie App">
-      <change afterPath="$PROJECT_DIR$/Background Slider/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Background Slider/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Background Slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Background Slider/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Background Slider/style.css" afterDir="false" />
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Theme Clock">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theme Clock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theme Clock/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theme Clock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theme Clock/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theme Clock/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theme Clock/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -52,25 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html (1).executor": "Run",
-    "JavaScript Debug.index.html (2).executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/GitHub/HTMLProjects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html (1).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html (2).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/GitHub/HTMLProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\GitHub\HTMLProjects" />
@@ -121,7 +123,8 @@
       <workItem from="1720718820190" duration="1398000" />
       <workItem from="1720903840418" duration="89000" />
       <workItem from="1720905857223" duration="495000" />
-      <workItem from="1720954200893" duration="15778000" />
+      <workItem from="1720954200893" duration="17734000" />
+      <workItem from="1721242071579" duration="7087000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -155,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720971376468</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Background Slider">
+      <option name="closed" value="true" />
+      <created>1720974002836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720974002836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,8 @@
     <MESSAGE value="Update to main menu" />
     <MESSAGE value="Animated Navigation" />
     <MESSAGE value="Incrementing Counter and Movie App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Incrementing Counter and Movie App" />
+    <MESSAGE value="Background Slider" />
+    <MESSAGE value="Theme Clock" />
+    <option name="LAST_COMMIT_MESSAGE" value="Theme Clock" />
   </component>
 </project>
