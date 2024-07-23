@@ -4,14 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Theme Clock">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theme Clock/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theme Clock/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theme Clock/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theme Clock/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theme Clock/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Theme Clock/style.css" afterDir="false" />
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Multiple New Projects">
+      <change afterPath="$PROJECT_DIR$/Button Ripple/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button Ripple/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button Ripple/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button Ripple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button Ripple/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Button Ripple/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Placeholder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Placeholder/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Placeholder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Placeholder/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Placeholder/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Placeholder/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag n Drop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag n Drop/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag n Drop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag n Drop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag n Drop/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drag n Drop/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing App/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing App/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing App/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drawing App/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinetic CSS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinetic CSS/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinetic CSS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinetic CSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinetic CSS/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kinetic CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -62,6 +85,7 @@
     &quot;JavaScript Debug.index.html (2).executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;F:/GitHub/HTMLProjects&quot;,
@@ -124,7 +148,9 @@
       <workItem from="1720903840418" duration="89000" />
       <workItem from="1720905857223" duration="495000" />
       <workItem from="1720954200893" duration="17734000" />
-      <workItem from="1721242071579" duration="7087000" />
+      <workItem from="1721242071579" duration="7701000" />
+      <workItem from="1721579099429" duration="3237000" />
+      <workItem from="1721745055250" duration="10116000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -166,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720974002836</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Theme Clock">
+      <option name="closed" value="true" />
+      <created>1721251235610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721251235610</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +236,7 @@
     <MESSAGE value="Incrementing Counter and Movie App" />
     <MESSAGE value="Background Slider" />
     <MESSAGE value="Theme Clock" />
-    <option name="LAST_COMMIT_MESSAGE" value="Theme Clock" />
+    <MESSAGE value="Multiple New Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple New Projects" />
   </component>
 </project>
