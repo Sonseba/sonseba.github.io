@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Multiple New Projects">
-      <change afterPath="$PROJECT_DIR$/Button Ripple/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button Ripple/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button Ripple/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button Ripple/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button Ripple/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Button Ripple/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Placeholder/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Placeholder/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Placeholder/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Placeholder/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Placeholder/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Placeholder/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag n Drop/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag n Drop/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag n Drop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag n Drop/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag n Drop/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drag n Drop/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing App/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing App/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing App/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing App/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing App/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drawing App/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kinetic CSS/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kinetic CSS/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kinetic CSS/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kinetic CSS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kinetic CSS/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kinetic CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -150,7 +123,7 @@
       <workItem from="1720954200893" duration="17734000" />
       <workItem from="1721242071579" duration="7701000" />
       <workItem from="1721579099429" duration="3237000" />
-      <workItem from="1721745055250" duration="10116000" />
+      <workItem from="1721745055250" duration="12653000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -200,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721251235610</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Multiple New Projects">
+      <option name="closed" value="true" />
+      <created>1721758770629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721758770629</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
