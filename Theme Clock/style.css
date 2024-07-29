@@ -24,8 +24,8 @@ html.dark {
 }
 
 body {
-    font-family: 'Heebo',sans-serif;
-    display:flex;
+    font-family: 'Heebo', sans-serif;
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -82,7 +82,7 @@ body {
     transform: translate(-50%, -100%) rotate(0deg);
 }
 
-.needle.second{
+.needle.second {
     height: 100px;
     transform: translate(-50%, -100%) rotate(0deg);
     background-color: #e74c3c;

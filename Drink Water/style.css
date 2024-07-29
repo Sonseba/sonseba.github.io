@@ -12,15 +12,15 @@
 body {
     background-color: #3494e4;
     color: white;
-    font-family: 'Montserrat',sans-serif;
-    display:flex;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 40px;
 }
 
 h1 {
-    margin:10px 0 0;
+    margin: 10px 0 0;
 
 }
 
@@ -43,9 +43,9 @@ h3 {
 }
 
 .cup.cup-small {
-    width:50px;
+    width: 50px;
     height: 95px;
-    background-color: rgba(255,255,255,0.9);
+    background-color: rgba(255, 255, 255, 0.9);
     cursor: pointer;
     font-size: 14px;
     align-items: center;
@@ -55,13 +55,13 @@ h3 {
     transition: 0.3s ease;
 }
 
-.cup.cup-small.full  {
+.cup.cup-small.full {
     background-color: var(--fill-color);
     color: white;
 }
 
 .cups {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
@@ -101,6 +101,6 @@ h3 {
 
 .text {
     text-align: center;
-    margin:  0 0 5px;
+    margin: 0 0 5px;
     transition: 0.5s ease;
 }

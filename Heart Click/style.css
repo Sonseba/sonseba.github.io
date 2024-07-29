@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Oswald',sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
     overflow: hidden;
     margin: 0;
@@ -41,12 +41,12 @@ small {
 .loveMe .fa-heart {
     position: absolute;
     animation: grow 0.5s linear;
-    transform: translate(-50%,-50%) scale(0);
+    transform: translate(-50%, -50%) scale(0);
 }
 
 @keyframes grow {
- to {
-     transform: translate(-50%,-50%) scale(10);
-     opacity: 0;
- }
+    to {
+        transform: translate(-50%, -50%) scale(10);
+        opacity: 0;
+    }
 }

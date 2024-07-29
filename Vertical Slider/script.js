@@ -7,7 +7,7 @@ const slidesLength = slideRight.querySelectorAll('div').length
 
 let activeSlideIndex = 0
 
-slideLeft.style.top = `-${(slidesLength-1) *100}vh`;
+slideLeft.style.top = `-${(slidesLength - 1) * 100}vh`;
 
 upButton.addEventListener('click', () => changeSlide('up'))
 downButton.addEventListener('click', () => changeSlide('down'))
@@ -15,15 +15,15 @@ downButton.addEventListener('click', () => changeSlide('down'))
 
 const changeSlide = (direction) => {
     const sliderHeight = sliderContainer.clientHeight
-    if(direction === 'up') {
+    if (direction === 'up') {
         activeSlideIndex++
-        if(activeSlideIndex > slidesLength-1) {
+        if (activeSlideIndex > slidesLength - 1) {
             activeSlideIndex = 0
         }
     } else {
         activeSlideIndex--
-        if(activeSlideIndex < 0) {
-            activeSlideIndex = slidesLength-1
+        if (activeSlideIndex < 0) {
+            activeSlideIndex = slidesLength - 1
         }
     }
 

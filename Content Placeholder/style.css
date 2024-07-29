@@ -68,7 +68,7 @@ img {
 }
 
 .author-info {
-    display:flex;
+    display: flex;
     flex-direction: column;
     justify-content: space-around;
     margin-left: 10px;
@@ -82,7 +82,7 @@ img {
 }
 
 .animated-bg {
-    background-image: linear-gradient(to right, var(--grey1) 0%, var(--grey2) 10%,var(--grey1) 20%, var(--grey1) 100%);
+    background-image: linear-gradient(to right, var(--grey1) 0%, var(--grey2) 10%, var(--grey1) 20%, var(--grey1) 100%);
     background-size: 200% 100%;
     animation: bgPos 1s linear infinite;
 }

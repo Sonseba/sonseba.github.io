@@ -6,7 +6,7 @@ const circles = document.querySelectorAll(".circle");
 let currentActive = 1;
 
 next.addEventListener('click', () => {
-    if(currentActive <= circles.length) currentActive++
+    if (currentActive <= circles.length) currentActive++
     update()
 })
 
@@ -15,31 +15,30 @@ prev.addEventListener('click', () => {
     update()
 })
 
-function update(){
+function update() {
     updateCircle()
     updateButtons()
 }
 
-function updateCircle(){
-    circles.forEach((circle,idx) => {
-        if(idx < currentActive){
+function updateCircle() {
+    circles.forEach((circle, idx) => {
+        if (idx < currentActive) {
             circle.classList.add("active");
-        }
-        else {
+        } else {
             circle.classList.remove("active");
         }
     })
 
 }
 
-function updateButtons(){
+function updateButtons() {
 
-    progress.style.width = (currentActive-1) / (circles.length-1) *100 + '%'
+    progress.style.width = (currentActive - 1) / (circles.length - 1) * 100 + '%'
 
-    if(currentActive === 1 ) prev.disabled = true
-    if(currentActive === circles.length) next.disabled = true
+    if (currentActive === 1) prev.disabled = true
+    if (currentActive === circles.length) next.disabled = true
 
-    if(currentActive > 1 &&  currentActive <circles.length) {
+    if (currentActive > 1 && currentActive < circles.length) {
         next.disabled = prev.disabled = false
     }
 }

@@ -12,11 +12,11 @@ function writeText() {
     textEl.innerText = text.slice(0, idx)
 
     idx++
-    if(idx > text.length) {
+    if (idx > text.length) {
         idx = 1
     }
 
-    setTimeout(writeText, (300 /speed) )
+    setTimeout(writeText, (300 / speed))
 }
 
 

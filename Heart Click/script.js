@@ -5,14 +5,13 @@ let lastClick = 0
 
 loveMe.addEventListener('click', (e) => {
 
-    if(lastClick && lastClick+800 > e.timeStamp ){
+    if (lastClick && lastClick + 800 > e.timeStamp) {
         createHeart(e)
         lastClick = 0
 
     }
     lastClick = e.timeStamp
 })
-
 
 
 function createHeart(e) {
@@ -35,7 +34,7 @@ function createHeart(e) {
 
     loveMe.appendChild(heart)
 
-    times.innerHTML = Number(times.innerHTML)+1
+    times.innerHTML = Number(times.innerHTML) + 1
 
-    setTimeout(() => heart.remove(),1000)
+    setTimeout(() => heart.remove(), 1000)
 }

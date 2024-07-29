@@ -10,9 +10,9 @@
 }
 
 body {
-    background-color: #f6f7fb ;
-    font-family: 'Muli',sans-serif;
-    display:flex;
+    background-color: #f6f7fb;
+    font-family: 'Muli', sans-serif;
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -21,7 +21,7 @@ body {
 
 }
 
-.container{
+.container {
     text-align: center;
 }
 
@@ -34,23 +34,23 @@ body {
     width: 350px;
 }
 
-.progress-container::before{
+.progress-container::before {
     content: '';
     background-color: var(--line-border-empty);
     position: absolute;
     top: 50%;
-    left:0;
+    left: 0;
     transform: translateY(-50%);
     height: 4px;
     width: 100%;
     z-index: -1;
 }
 
-.progress{
+.progress {
     background-color: var(--line-border-fill);
     position: absolute;
     top: 50%;
-    left:0;
+    left: 0;
     transform: translateY(-50%);
     height: 4px;
     width: 0;
@@ -93,7 +93,7 @@ body {
 }
 
 .btn:focus {
-    outline:0;
+    outline: 0;
 }
 
 .btn:disabled {

@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Muli',sans-serif;
+    font-family: 'Muli', sans-serif;
     background-color: #f0f0f0;
 
 
@@ -35,7 +35,7 @@ h1 {
 
 .faq.active {
     background-color: white;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
 
 }
 
@@ -47,18 +47,18 @@ h1 {
     font-size: 7rem;
     position: absolute;
     opacity: 0.2;
-    top:20px;
-    left:50px;
+    top: 20px;
+    left: 50px;
     z-index: 0;
 }
 
 .faq.active::before {
     color: #3498db;
-    top:-10px;
+    top: -10px;
     left: 10px;
 }
 
-.faq-title{
+.faq-title {
     margin: 0 35px 0 0;
 }
 
@@ -68,7 +68,7 @@ h1 {
 }
 
 .faq.active .faq-text {
-    display:block;
+    display: block;
 }
 
 .faq-toggle {
@@ -82,27 +82,27 @@ h1 {
     font-size: 16px;
     padding: 0;
     position: absolute;
-    top:30px;
-    right:30px;
+    top: 30px;
+    right: 30px;
     height: 30px;
     width: 30px;
 }
 
 .faq-toggle:focus {
-    outline:0;
+    outline: 0;
 }
 
 .faq-toggle .fa-times {
-    display:none;
+    display: none;
 }
 
 .faq.active .faq-toggle .fa-times {
-    display:block;
-    color:white;
+    display: block;
+    color: white;
 }
 
 .faq.active .faq-toggle .fa-chevron-down {
-    display:none;
+    display: none;
 }
 
 .faq.active .faq-toggle {

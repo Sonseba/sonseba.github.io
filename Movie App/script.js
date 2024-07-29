@@ -12,7 +12,6 @@ const search = document.getElementById('search')
 const main = document.getElementById('main')
 
 
-
 //Get initial movies
 getMovies(API_URL).then(r => showMovies(r))
 
@@ -23,12 +22,12 @@ async function getMovies(url) {
     return data.results
 }
 
-function showMovies(movies){
-    main.innerHTML  = ''
+function showMovies(movies) {
+    main.innerHTML = ''
     console.log(movies)
 
     movies.forEach((movie) => {
-        const { title, poster_path, vote_average, overview } = movie
+        const {title, poster_path, vote_average, overview} = movie
 
         const movieEl = document.createElement('div')
         movieEl.classList.add('movie')
@@ -48,8 +47,8 @@ function showMovies(movies){
     })
 }
 
-function getClassByRate(vote){
-    if(vote >= 8) {
+function getClassByRate(vote) {
+    if (vote >= 8) {
         return 'green'
     } else if (vote >= 5) {
         return 'orange'
@@ -58,13 +57,13 @@ function getClassByRate(vote){
     }
 }
 
-form.addEventListener('submit',(e) => {
+form.addEventListener('submit', (e) => {
     e.preventDefault()
 
     const searchTerm = search.value
 
-    if(searchTerm && searchTerm !=='' ){
-        getMovies(SEARCH_API+searchTerm).then(r => showMovies(r))
+    if (searchTerm && searchTerm !== '') {
+        getMovies(SEARCH_API + searchTerm).then(r => showMovies(r))
 
         search.value = ''
 

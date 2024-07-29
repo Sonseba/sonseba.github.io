@@ -6,12 +6,11 @@ const main = document.getElementById("main");
 async function getUser(userName) {
 
     try {
-        const {data } = await axios.get(APIURL + userName)
+        const {data} = await axios.get(APIURL + userName)
         createUserCard(data)
         getRepos(userName)
-    }
-    catch(err) {
-        if(err.response.status === 404) {
+    } catch (err) {
+        if (err.response.status === 404) {
             createErrorCard('No Profile With This Username')
         }
     }
@@ -32,20 +31,19 @@ function addReposToCard(repos) {
 
             reposEl.appendChild(repoEl)
 
-    })
-    
+        })
+
 }
 
 async function getRepos(userName) {
 
     try {
-        const {data } = await axios.get(APIURL + userName + '/repos?sort=created')
+        const {data} = await axios.get(APIURL + userName + '/repos?sort=created')
 
         console.log(data)
 
         addReposToCard(data)
-    }
-    catch(err) {
+    } catch (err) {
         console.log(err)
         createErrorCard('Problem fetching repos')
     }

@@ -22,6 +22,8 @@ function createNotification() {
 
     toasts.appendChild(notif)
 
-    setTimeout(() => { notif.remove() }, 3000)
+    setTimeout(() => {
+        notif.remove()
+    }, 3000)
 
 }

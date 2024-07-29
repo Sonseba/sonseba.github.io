@@ -5,9 +5,9 @@
 }
 
 body {
-    background-color: #e1e1e1 ;
-    font-family: 'Muli',sans-serif;
-    display:flex;
+    background-color: #e1e1e1;
+    font-family: 'Muli', sans-serif;
+    display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -36,11 +36,11 @@ body {
 
 .key small {
     position: absolute;
-    top:-24px;
+    top: -24px;
     left: 0;
-    text-align:center;
-    width:100%;
-    color:#555;
-    font-size:14px;
+    text-align: center;
+    width: 100%;
+    color: #555;
+    font-size: 14px;
 
 }

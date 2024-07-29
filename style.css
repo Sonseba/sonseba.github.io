@@ -2,8 +2,8 @@
 
 body {
     background-color: ghostwhite;
-    font-family: 'Montserrat',sans-serif;
-    display:flex;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
     flex-direction: column;
     align-items: safe center;
     justify-content: safe center;
@@ -11,7 +11,7 @@ body {
     overflow: auto;
 }
 
-.container{
+.container {
     background-color: lightblue;
     padding: 40px 40px;
     width: 50%;
@@ -41,6 +41,7 @@ form {
     align-items: safe center;
     justify-content: safe center;
 }
+
 .btn:active {
     transform: scale(0.98);
 }
