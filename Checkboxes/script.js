@@ -19,5 +19,4 @@ function doTheTrick (clickedOne) {
         checked[0].checked = false
         checked = checked.slice(1,togglesLength)
     }
-    console.log(checked)
 }
