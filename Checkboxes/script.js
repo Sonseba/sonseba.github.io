@@ -1,4 +1,5 @@
 const toggles = document.querySelectorAll('.toggle');
+const togglesLength = toggles.length;
 let checked = []
 
 toggles.forEach(toggle => {
@@ -14,9 +15,9 @@ function doTheTrick (clickedOne) {
         checked = checked.filter(e => e !== clickedOne)
     }
 
-    if (checked.length ===3) {
+    if (checked.length ===togglesLength) {
         checked[0].checked = false
-        checked = checked.slice(1,3)
+        checked = checked.slice(1,togglesLength)
     }
     console.log(checked)
 }

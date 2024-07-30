@@ -8,14 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Password Generator">
-      <change afterPath="$PROJECT_DIR$/Checkboxes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Checkboxes/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Checkboxes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Checkboxes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Checkboxes/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Checkboxes/style.css" afterDir="false" />
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Checked Boxes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Checkboxes/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Checkboxes/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +125,7 @@
       <workItem from="1722254253350" duration="12787000" />
       <workItem from="1722337196014" duration="73000" />
       <workItem from="1722364788213" duration="6085000" />
-      <workItem from="1722373971864" duration="3473000" />
+      <workItem from="1722373971864" duration="3588000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -244,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722370637967</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Checked Boxes">
+      <option name="closed" value="true" />
+      <created>1722377526901</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722377526901</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +292,7 @@
     <MESSAGE value="Some code clean-up" />
     <MESSAGE value="Duplicated Page" />
     <MESSAGE value="Password Generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Password Generator" />
+    <MESSAGE value="Checked Boxes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checked Boxes" />
   </component>
 </project>
