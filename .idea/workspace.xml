@@ -8,7 +8,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Checked Boxes - remove console log">
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Checked Boxes - adding to main menu">
+      <change afterPath="$PROJECT_DIR$/Notes App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes App/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes App/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes App/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes App/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -126,7 +133,8 @@
       <workItem from="1722337196014" duration="73000" />
       <workItem from="1722364788213" duration="6085000" />
       <workItem from="1722373971864" duration="3740000" />
-      <workItem from="1722416621421" duration="33000" />
+      <workItem from="1722416621421" duration="236000" />
+      <workItem from="1722416882058" duration="4722000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -264,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722377665885</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Checked Boxes - adding to main menu">
+      <option name="closed" value="true" />
+      <created>1722416702346</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722416702346</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +328,7 @@
     <MESSAGE value="Checked Boxes" />
     <MESSAGE value="Checked Boxes - changing variables" />
     <MESSAGE value="Checked Boxes - remove console log" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checked Boxes - remove console log" />
+    <MESSAGE value="Checked Boxes - adding to main menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checked Boxes - adding to main menu" />
   </component>
 </project>
