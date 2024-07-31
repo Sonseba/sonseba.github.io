@@ -8,14 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Notes App">
-      <change afterPath="$PROJECT_DIR$/Animated Countdown/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animated Countdown/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animated Countdown/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animated Countdown/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animated Countdown/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animated Countdown/style.css" afterDir="false" />
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Animated Countdown">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -132,7 +127,8 @@
       <workItem from="1722364788213" duration="6085000" />
       <workItem from="1722373971864" duration="3740000" />
       <workItem from="1722416621421" duration="236000" />
-      <workItem from="1722416882058" duration="7691000" />
+      <workItem from="1722416882058" duration="7754000" />
+      <workItem from="1722456347575" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -286,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722444961758</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Animated Countdown">
+      <option name="closed" value="true" />
+      <created>1722455156301</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722455156301</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +340,7 @@
     <MESSAGE value="Checked Boxes - remove console log" />
     <MESSAGE value="Checked Boxes - adding to main menu" />
     <MESSAGE value="Notes App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notes App" />
+    <MESSAGE value="Animated Countdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animated Countdown" />
   </component>
 </project>
