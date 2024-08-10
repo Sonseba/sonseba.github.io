@@ -8,7 +8,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Animated Countdown - Onto main page" />
+    <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Image Carousel">
+      <change afterPath="$PROJECT_DIR$/Image Carousel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Carousel/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Carousel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Carousel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Carousel/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image Carousel/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +135,7 @@
       <workItem from="1722416621421" duration="236000" />
       <workItem from="1722416882058" duration="7754000" />
       <workItem from="1722456347575" duration="52000" />
+      <workItem from="1723315699463" duration="5049000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -347,6 +357,7 @@
     <MESSAGE value="Notes App" />
     <MESSAGE value="Animated Countdown" />
     <MESSAGE value="Animated Countdown - Onto main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animated Countdown - Onto main page" />
+    <MESSAGE value="Image Carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image Carousel" />
   </component>
 </project>
