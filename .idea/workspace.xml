@@ -9,12 +9,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4e533f5-2641-4dbb-94e4-017d8d78b812" name="Changes" comment="Image Carousel">
-      <change afterPath="$PROJECT_DIR$/Image Carousel/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Carousel/.idea/_Project_starter_.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Carousel/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Carousel/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image Carousel/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Boxes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Boxes/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Boxes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Boxes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Boxes/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3D Boxes/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoverboard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoverboard/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoverboard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoverboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoverboard/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hoverboard/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Strength/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Strength/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Strength/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Strength/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Strength/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Strength/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokedex/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokedex/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokedex/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokedex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokedex/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pokedex/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tab Navigation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tab Navigation/.idea/_Project_starter_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tab Navigation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tab Navigation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tab Navigation/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tab Navigation/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -135,7 +160,8 @@
       <workItem from="1722416621421" duration="236000" />
       <workItem from="1722416882058" duration="7754000" />
       <workItem from="1722456347575" duration="52000" />
-      <workItem from="1723315699463" duration="5049000" />
+      <workItem from="1723315699463" duration="5689000" />
+      <workItem from="1723385827064" duration="12667000" />
     </task>
     <task id="LOCAL-00001" summary="Changing buttons around">
       <option name="closed" value="true" />
@@ -305,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722456394536</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Image Carousel">
+      <option name="closed" value="true" />
+      <created>1723324075960</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723324075961</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
