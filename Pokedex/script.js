@@ -1,3 +1,7 @@
+/**
+ * @namespace data.sprites.front_default  Sprite of the returned Pokemon
+ */
+
 const poke_container = document.getElementById("poke-container");
 const pokemon_count = 151
 const colors = {
@@ -43,7 +47,7 @@ function createPokemonCard(data){
     pokemonEl.style.backgroundColor = colors[type]
     pokemonEl.innerHTML = `
                 <div class="img-container">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${data.id}.png" alt="">
+                        <img src="${data.sprites.front_default}" alt="">
                 </div>
                 <div class="info">
                     <span class="number">#${id}</span>
