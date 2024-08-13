@@ -37,14 +37,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function displayPokemons(pokemons) {
         pokemons.forEach(pokemon => {
-            const { name, types } = pokemon;
+            const { name, types, sprites } = pokemon;
+            const officialArtwork = sprites.other["official-artwork"]
             const type = types[0].type.name;
             const card = document.createElement('div');
             card.className = 'card';
             card.style.backgroundColor = getTypeColor(type);
 
             card.innerHTML = `
-                <img src="${pokemon.sprites.front_default}" alt="${name}">
+                <img src="${officialArtwork.front_default}" alt="${name}">
                 <div class="type">${type}</div>
                 <div>${name.charAt(0).toUpperCase() + name.slice(1)}</div>
             `;

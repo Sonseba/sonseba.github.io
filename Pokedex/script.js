@@ -1,5 +1,6 @@
 /**
- * @namespace data.sprites.front_default  Sprite of the returned Pokemon
+ * @namespace data.sprites  Sprite of the returned Pokemon
+ * @namespace data.sprites.other.official-artwork.front_default Other artwork.
  */
 
 const poke_container = document.getElementById("poke-container");
@@ -41,13 +42,14 @@ function createPokemonCard(data){
     pokemonEl.classList.add('pokemon')
     const name = data.name[0].toUpperCase() + data.name.slice(1)
     const id = data.id.toString().padStart(3,'0')
+    const artWork = data.sprites.other["official-artwork"].front_default
 
     const poke_types = data.types.map(type => type.type.name)
     const type = main_types.find(type => poke_types.indexOf(type) > -1)
     pokemonEl.style.backgroundColor = colors[type]
     pokemonEl.innerHTML = `
                 <div class="img-container">
-                        <img src="${data.sprites.front_default}" alt="">
+                        <img src="${artWork}" alt="">
                 </div>
                 <div class="info">
                     <span class="number">#${id}</span>
